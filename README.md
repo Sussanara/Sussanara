@@ -16,7 +16,8 @@ Desarrolladora Full-Stack Jr. y Relacionadora Pública, con experiencia en gener
 ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
-<h3> 📈 Github Stats</h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sussanara&layout=compact)](https://github.com/sussanara/github-readme-stats)
+
+<h3> 🦸‍♀️Más sobre mí:</h3>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
