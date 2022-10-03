@@ -22,4 +22,4 @@ Desarrolladora Full-Stack Jr. y Relacionadora Pública, con experiencia en gener
 
 <a href="https://www.linkedin.com/in/sussan-hern%C3%A1ndez-villalobos/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-📃[Sussan Hernández V. CV.pdf](https://github.com/Sussanara/Sussanara/files/9649073/Sussan.Hernandez.V.CV.pdf)
+📃[Sussan Hernández V. CV.pdf](https://github.com/Sussanara/Sussanara/files/9649073/Sussan.Hernandez.V.CV.pdf) 📃
