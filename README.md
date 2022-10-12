@@ -1,7 +1,7 @@
 ![Image text](https://github.com/Sussanara/Sussanara/blob/main/header.png)
 Desarrolladora Full-Stack Jr. y Relacionadora Pública, con experiencia en generación de contenido, desarrollo de proyectos y administración de páginas web. Profesional responsable, versátil, con ganas de aprender y crecer en el ámbito profesional y personal.
 
-<h3>💡Habilidades </h3>
+<h3>💡Habilidades</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
